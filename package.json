@@ -1,0 +1,26 @@
+{
+  "name": "nodeunblocker.com",
+  "description": "Web proxy for evading internet censorship",
+  "author": "Nathan Friedly - http://nfriedly.com",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/nfriedly/nodeunblocker.com/",
+  "dependencies": {
+    "express": "^4.13.0",
+    "express-basic-auth": "^1.2.1",
+    "gatling": "^2.0.0",
+    "i": "^0.3.7",
+    "newrelic": "^8.11.1",
+    "npm": "^8.10.0",
+    "through": "^2.3.8",
+    "unblocker": "^2.2.0",
+    "ytdl-core": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "start": "gatling app.js"
+  },
+  "license": "AGPL-3.0"
+}
