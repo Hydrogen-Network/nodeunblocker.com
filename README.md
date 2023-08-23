@@ -36,18 +36,13 @@
 
 
 # Deployment
-<ol>
-  <li<a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a></li>
-  <li<a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a></li>
-<li<a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/neealdon3/nodeunblocker.com&amp;branch=main&amp;name=Node-Unblocker">Deploy to Koyeb</a></li>
-<li<a href="https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Heroku</a></li>
-<li<a href="https://railway.app/template/es0AFM">Deploy on Railway</a></li>
-<li<a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a></li>
-</ol>
   <ol>
     <li><a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a></li>
-    <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#to-do">To-Do</a></li>
+    <li><a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a></li>
+    <li><a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/neealdon3/nodeunblocker.com&amp;branch=main&amp;name=Node-Unblocker">Deploy to Koyeb</a></li>
+    <li><a href="https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Heroku></li>
+    <li><a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a></li>
+    <li><a href="https://gitpod.io/new#https://github.com/neealdon3/nodeunblocker.com">Deploy to Gitpod</a></li>
   </ol>
 
 # To-Do
