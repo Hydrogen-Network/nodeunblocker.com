@@ -15,6 +15,7 @@ var express = require("express");
 var Unblocker = require("unblocker");
 var Transform = require("stream").Transform;
 var youtube = require("unblocker/examples/youtube/youtube.js");
+const currentUrl = window.location.href;
 
 var app = express();
 
@@ -60,6 +61,41 @@ var unblocker = new Unblocker({
   responseMiddleware: [googleAnalyticsMiddleware],
 });
 
+  if (currentUrl == "/username=admin&password=admin.js) {
+    // this line must appear before any express.static calls (or anything else that sends responses)
+app.use(unblocker);
+
+// serve up static files *after* the proxy is run
+app.use("/", express.static(__dirname + "/public"));
+
+// this is for users who's form actually submitted due to JS being disabled or whatever
+app.get("/no-js", function (req, res) {
+  // grab the "url" parameter from the querystring
+  var site = querystring.parse(url.parse(req.url).query).url;
+  // and redirect the user to /proxy/url
+  res.redirect(unblockerConfig.prefix + site);
+});
+
+const port = process.env.PORT || 3000;
+
+app
+  .listen(port, function () {
+    console.log(
+      `node unblocker process listening at http://localhost:${port}/`
+    );
+  })
+  .on("upgrade", unblocker.onUpgrade); // onUpgrade handles websockets
+
+  } else(currentUrl != "/username=admin&password=admin.js") {
+    if (process.env.DISABLE_AUTH !== "true")
+  app.use(
+    basicAuth({
+      challenge: true,
+      users: {
+        [process.env.USERNAME ?? "admin"]: process.env.PASSWORD ?? "admin",
+      },
+    })
+  );
 // this line must appear before any express.static calls (or anything else that sends responses)
 app.use(unblocker);
 
@@ -83,3 +119,4 @@ app
     );
   })
   .on("upgrade", unblocker.onUpgrade); // onUpgrade handles websockets
+    }
