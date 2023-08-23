@@ -44,6 +44,14 @@
 <li<a href="https://railway.app/template/es0AFM">Deploy on Railway</a>/>
 <li<a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a>/>
 
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#tutorial-for-txts">Tutorial</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+
 # To-Do
 <ol>
 <li><a href="https://github.com/neealdon3/nodeunblocker.com/blob/master/username%3Dadmin%26password%3Dadmin.js">Add bypasses for login.</a></li>
