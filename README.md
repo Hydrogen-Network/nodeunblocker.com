@@ -10,7 +10,7 @@
     <a href="https://github.com/neealdon3/nodeunblocker.com/issues">Report Bug</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  />
 </div>
 
 
@@ -37,12 +37,12 @@
 
 # Deployment
 
-<p><a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a></p>
-<p><a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a></p>
-<p><a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/neealdon3/nodeunblocker.com&amp;branch=main&amp;name=Node-Unblocker">Deploy to Koyeb</a></p>
-<p><a href="https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/">Deploy</a></p>
-<p><a href="https://railway.app/template/es0AFM">Deploy on Railway</a></p>
-<p><a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a></p>
+<li<a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a>/>
+<li<a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a>/>
+<li<a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/neealdon3/nodeunblocker.com&amp;branch=main&amp;name=Node-Unblocker">Deploy to Koyeb</a>/>
+<li<a href="https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Heroku</a>/>
+<li<a href="https://railway.app/template/es0AFM">Deploy on Railway</a>/>
+<li<a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a>/>
 
 # To-Do
 <ol>
