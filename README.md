@@ -37,8 +37,8 @@
 
 # Deployment
 <ol>
-<li<a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a></li>
-<li<a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a></li>
+  <li<a href="https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Vercel</a></li>
+  <li<a href="https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/">Deploy with Netlify</a></li>
 <li<a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/neealdon3/nodeunblocker.com&amp;branch=main&amp;name=Node-Unblocker">Deploy to Koyeb</a></li>
 <li<a href="https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Heroku</a></li>
 <li<a href="https://railway.app/template/es0AFM">Deploy on Railway</a></li>
