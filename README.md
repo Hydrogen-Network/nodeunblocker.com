@@ -44,7 +44,11 @@
 <li<a href="https://railway.app/template/es0AFM">Deploy on Railway</a></li>
 <li<a href="https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/">Deploy to Render</a></li>
 </ol>
-
+  <ol>
+    <li><a href="#hosting">Hosting</a></li>
+    <li><a href="#deployment">Deployment</a></li>
+    <li><a href="#to-do">To-Do</a></li>
+  </ol>
 
 # To-Do
 <ol>
