@@ -37,13 +37,12 @@
 
 # Deployment
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/)
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/official/glitch.svg)](https://glitch.com/edit/#!/import/github/neealdon3/nodeunblocker.com)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/official/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/neealdon3/nodeunblocker.com&branch=main&name=Node-Unblocker)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/es0AFM)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/)
+[![Deploy with Vercel](https://vercel.com/new/clone?repository-url=https://github.com/neealdon3/nodeunblocker.com/)
+[![Deploy with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/neealdon3/nodeunblocker.com/)
+[![Deploy to Koyeb](https://app.koyeb.com/deploy?type=git&repository=github.com/neealdon3/nodeunblocker.com&branch=main&name=Node-Unblocker)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/neealdon3/nodeunblocker.com/)
+[![Deploy on Railway](https://railway.app/template/es0AFM)
+[![Deploy to Render](https://render.com/deploy?repo=https://github.com/neealdon3/nodeunblocker.com/)
 
 # To-Do
 <ol>
